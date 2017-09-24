@@ -1,0 +1,7 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+Os arquivos de diretorio passam a ficar sob controle do git
+Preciso fazer isso para versionar os arquivos
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+A area de preparação são arquivos em estagio temporario que estão sendo trackeados pelo git
+eoa oferece a possibilidade de comitar os arquivos no repositorio

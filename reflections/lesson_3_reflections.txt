@@ -1,0 +1,2 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+Quando preciso criar uma cópia segura dos arquivos

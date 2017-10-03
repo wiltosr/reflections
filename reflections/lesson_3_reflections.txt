@@ -8,3 +8,6 @@ Descreva as diferenças entre bifurcações, clones e branches. Quando você usa
 Bifurcações - cria copia de uma versão outro repositorio
 CLones - cria copia de um repostorio com permissao
 Branch - cria versoes para commits dentro de um repositorio
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Estar atualizado com o remoto

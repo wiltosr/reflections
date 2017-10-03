@@ -3,3 +3,8 @@ Quando preciso criar uma cópia segura dos arquivos
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 Para maior controle das alterações
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+Bifurcações - cria copia de uma versão outro repositorio
+CLones - cria copia de um repostorio com permissao
+Branch - cria versoes para commits dentro de um repositorio
